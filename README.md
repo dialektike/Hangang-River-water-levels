@@ -16,3 +16,5 @@
 
 1. 서울시(한강대교) 관측소 제원 현황입니다.
 http://www.wamis.go.kr/wkw/WL_OBSINFO.ASPX?code=1018683&name=%BC%AD%BF%EF%BD%C3(%C7%D1%B0%AD%B4%EB%B1%B3)&gvcd=01&Search=1&Sort=1&Basin=1&Oper=N&ObsKd=-1&OrgMng=-1
+2. 실시간 한강 하천 수위
+	* [하천수위 - 서울안전누리](http://safecity.seoul.go.kr:8070/scmyn_cf/flood/riverGauge.do)
