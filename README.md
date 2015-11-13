@@ -11,6 +11,11 @@
 ## 주의할 점
 
 실제 파일을 받아서 처리한 것이 아니기 때문에 자료의 신뢰도를 논문에 쓸 만큼은 보증할 수 없습니다. 물론 최대한 실수를 하지 않고 처리하려고 했기 때문에 원 자료가 문제가 없다면, 여기에 있는 자료 또한 거의 문제가 없을 것입니다.
+## 자료 출처 링크
+
+자료 출처 링크는 다음과 같다.
+
+http://www.wamis.go.kr/WKW/WL_HRDATA.ASPX?code=1018683&name=%BC%AD%BF%EF%BD%C3(%C7%D1%B0%AD%B4%EB%B1%B3)&gvcd=01&Search=1&Sort=1&Basin=1&Oper=N&ObsKd=-1&OrgMng=-1
 
 ## 참고 링크
 
